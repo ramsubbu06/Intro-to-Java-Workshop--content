@@ -1,0 +1,30 @@
+Websites
+--------
+http://docs.oracle.com/javase/tutorial/
+
+
+Communities
+----------
+https://javaranch.com/
+https://stackoverflow.com/
+
+
+Youtube videos:
+--------------
+Core Java - Cave of Programming - https://www.youtube.com/watch?v=7WiPGP_0AUA&list=PLuY4IF6DoIiQQVMdlelLW7ZYrAr02-nDW
+Core Java - thenewboston - https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28
+Core Java - Deege u - https://www.youtube.com/watch?v=yxwdKX7ErJ4&list=PLZlGOBonMjFVq9FF0eiS_emcFmP-0fSBe
+Lambda Basics - Java Brains -  https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
+
+ 
+Paid Content
+-------------
+http://www.pearsonitcertification.com/store/oca-java-se-8-programmer-i-1z0-808-complete-video-course-9780789756589
+https://www.simplilearn.com/mobile-and-software-development/java-javaee-soa-development-training
+https://www.udemy.com/courses/search/?q=core%20Java&src=ukw
+
+Books
+-----
+Cerfication Guide - https://www.amazon.com/OCA-Java-Programmer-Certification-Guide/dp/1617293253/ref=sr_1_1?s=books&ie=UTF8&qid=1491414049&sr=1-1&keywords=mala+gupta+java+8
+Certification Guide - https://www.amazon.com/OCA-OCP-Java-Programmer-Certification/dp/1119272092/ref=asap_bc?ie=UTF8
+Complete reference - https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/0071606300/ref=sr_1_1?s=books&ie=UTF8&qid=1491413984&sr=1-1&keywords=java+complete+reference+8th+edition
